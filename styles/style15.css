@@ -1,0 +1,18 @@
+table {
+	border: 20px dotted pink;
+	height: 500px;
+	width: 500px;
+	margin: auto;
+	border-spacing: calc((500px - 50px * 3) / 8);
+}
+
+td {
+	height: 50px;
+	width: 50px;
+	background-color: lightcoral;
+	text-align: center;
+	vertical-align: middle;
+	color: blueviolet;
+	font-family: "Comic Sans MS";
+	font-size: 20px;
+}

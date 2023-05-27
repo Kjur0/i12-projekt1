@@ -1,0 +1,11 @@
+#lipsum {
+	color: limegreen;
+	font-family: Verdana;
+	font-size: 10px;
+	font-weight: 500;
+	line-height: calc(10px + 5px);
+	text-align: justify;
+	border: 1px solid greenyellow;
+	cursor: wait;
+	padding: 0px 10px;
+}

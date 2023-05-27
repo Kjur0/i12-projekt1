@@ -1,0 +1,12 @@
+div {
+	color: blueviolet;
+	font-variant: small-caps;
+	border: 10px solid blueviolet;
+	border-top-right-radius: 25px;
+	border-bottom-left-radius: 25px;
+	letter-spacing: 5px;
+	word-spacing: 10px;
+	padding: 30px;
+	text-align: center;
+	text-transform: capitalize;
+}

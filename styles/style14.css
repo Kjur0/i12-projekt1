@@ -1,0 +1,11 @@
+ol {
+	list-style-type: upper-roman;
+	list-style-position: outside;
+	color: brown;
+	font-style: oblique;
+}
+
+ol:hover {
+	color: red;
+	background-color: wheat;
+}

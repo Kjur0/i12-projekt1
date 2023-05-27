@@ -1,0 +1,25 @@
+a {
+	padding-bottom: 1px;
+	/* pełna widoczność dekoracji tekstu niezależnie od stanu */
+}
+
+a:link {
+	color: purple;
+	font-family: Georgia;
+	font-size: 20px;
+}
+
+a:active {
+	color: red;
+	border: 1px solid red;
+}
+
+a:hover {
+	background-color: aqua;
+	border: 1px solid blue;
+	letter-spacing: 2px;
+}
+
+a:visited {
+	color: green;
+}
