@@ -1,12 +1,11 @@
-div {
-	color: blueviolet;
+.diviec {
 	font-variant: small-caps;
-	border: 10px solid blueviolet;
-	border-top-right-radius: 25px;
-	border-bottom-left-radius: 25px;
-	letter-spacing: 5px;
-	word-spacing: 10px;
-	padding: 30px;
-	text-align: center;
+	color: chocolate;
+	border: 0.3em dashed chocolate;
+	border-radius: 20px/30px 30px;
+	width: 30em;
+	height: 15em;
+	padding: 20px;
+	letter-spacing: 2px;
 	text-transform: capitalize;
 }
